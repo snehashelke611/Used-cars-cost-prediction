@@ -1,4 +1,4 @@
-# 🚗 Used Car Price Analysis
+# Used Car Cost Prediction
 
 ## Project Overview
 This project analyzes used car data to understand how different factors such as manufacturing year, fuel type, transmission, seller type, and kilometers driven affect the selling price of cars. The project uses Python libraries for data cleaning, analysis, and visualization.
